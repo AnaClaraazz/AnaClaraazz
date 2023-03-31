@@ -1,23 +1,27 @@
 # 👋 Hello Devs! Bem vindos ao meu Github.
 ## Meu nome é Ana Clara Azevedo e meu apelido no mundo online é "Hinata"!
 
+
+  - 😄 Pronomes: Ela/Dela
+
+- ⚡ Curiosidade: Tenho 22 anos, sou do Rio de Janeiro/RJ e estou em transição de carreira.
+
   
   
   
   
   
-  
-  
-  <div>
-<a href="https://github.com/AnaClaraazz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraazz&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaClaraazz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+
+  <a href="https://github.com/AnaClaraazz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraazz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaClaraazz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
+ 
+<div align="center">
 
-
-
-- 🔭 Atualmente minhas tecnologias são:
-
+<p><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40" />
@@ -29,8 +33,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-          
-          
+</div>
+  
+<div align="center">
+<p><br />
+
+  ![Snake animation](https://github.com/AnaClaraaz/AnaClaraazz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 - 📫 Como entrar em contato comigo:
 
@@ -40,9 +50,6 @@
   <a href="https://www.linkedin.com/in/ana-clara-azevedo-fullstackdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
 
-- 😄 Pronomes: Ela/Dela
 
-- ⚡ Curiosidade: Tenho 22 anos, sou do Rio de Janeiro/RJ e estou em transição de carreira.
 
-![Snake animation](https://github.com/AnaClaraazz/AnaClaraazz/blob/output/github-contribution-grid-snake.svg)
 
