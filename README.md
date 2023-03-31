@@ -1,7 +1,6 @@
 # 👋 Hello Devs! Bem vindos ao meu Github.
 ## Meu nome é Ana Clara Azevedo e meu apelido no mundo online "Hinata"!
 
-<!--
   <div>
 <a href="https://github.com/AnaClaraazz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
@@ -51,4 +50,3 @@
 
 ![Snake animation](https://github.com/AnaClaraazz/AnaClaraazz/blob/output/github-contribution-grid-snake.svg)
 
--->
