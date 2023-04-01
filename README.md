@@ -1,6 +1,6 @@
 <img align="right" width="300px" style="margin-top:-20px" src="https://github.com/AnaClaraazz/AnaClaraazz/blob/main/img/AREmoji_20230331_223910_35221.gif?raw=true">
 
-</br>
+ </br>
 </br>
 
 <div dsplay="inline-block">
@@ -8,21 +8,30 @@
  <h1 align="left">Ana Clara Azevedo</h1>
 
   
-</br>
+ </br>
 </br>
 
 
 ## <img src = "https://github.com/AnaClaraazz/AnaClaraazz/blob/main/img/result.gif?raw=true">
+
+ </br>
 </br>
-</br>
+
 Tenho 22 anos, moro no Rio de Janeiro/RJ. Estou em transição de carreira do atendimento ao público para a área TECH! Sou iniciante nesse universo, mas já amo passar raiva (igual passo jogando League of Legends) procurando erros no meu código que ás vezes é apenas uma vírgula 🤡.
+ 
+ 
+ </br>
 </br>
-</br>
+
+
 <p align="center">
   <img src="https://media.tenor.com/UscowQ5OPr0AAAAC/pc-computador.gif" width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
+
+<div>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title = "HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title = "CSS3"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40" title = "GIT" />
@@ -34,23 +43,34 @@ Tenho 22 anos, moro no Rio de Janeiro/RJ. Estou em transição de carreira do at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title = "REACT"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40" title = "MYSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title = "POSTGRESQL"/>
-</br>
-</br>
-  
-  <a href="https://github.com/AnaClaraazz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraazz&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaClaraazz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-</br>
+ <div/>
+ 
+   </br>
 </br>
 
 <div align="center">
+ 
+  <a href="https://github.com/AnaClaraazz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraazz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaClaraazz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
+</div>
+
+</br>
+</br>
+
+
+<div align="center">
   
-  ![Snake animation](https://github.com/AnaClaraaz/AnaClaraazz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
-- 📫 Como entrar em contato comigo:
+</br>
+</br>
+
+### 📫 Como entrar em contato comigo:
 
   <div>
   <a href="https://www.instagram.com/anaclaraazz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
