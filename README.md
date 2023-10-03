@@ -48,7 +48,12 @@ Tenho 22 anos, moro no Rio de Janeiro/RJ. Estou em transição de carreira do at
    </br>
 </br>
 
-
+<div align="center">
+ 
+  <a href="https://github.com/AnaClaraazz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraazz&layout=compact&langs_count=7&theme=dracula"/>
+   
+</div>
 
 </br>
 </br>
