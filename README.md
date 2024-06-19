@@ -17,7 +17,7 @@
  </br>
 </br>
 
-Tenho 23 anos, moro no Rio de Janeiro/RJ. Estou em transição de carreira do atendimento ao público para a área TECH! Sou iniciante nesse universo, mas já amo passar raiva (igual passo jogando League of Legends) procurando erros no meu código que ás vezes é apenas uma vírgula 🤡.
+Tenho 23 anos, moro em Itapevi/SP. Estou em transição de carreira do atendimento ao público para a área TECH! Sou iniciante nesse universo, mas já amo passar raiva (igual passo jogando League of Legends) procurando erros no meu código que ás vezes é apenas uma vírgula 🤡.
  
  
  </br>
