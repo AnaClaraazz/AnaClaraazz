@@ -7,8 +7,7 @@
  
  <h1 align="left">Ana Clara Azevedo</h1>
 
-  </br>
-</br>
+
  </br>
 </br>
 
